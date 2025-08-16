@@ -63,10 +63,4 @@ We’ll prototype this federated DApp and demonstrate:
 
 ---
 
-##  Get Involved
-
-- Help develop and explore the smart contract logic, UI components, and metadata standards in `/contracts`, `/frontend`, and `/metadata` directories.
-- Collaborate by testing federation flows via local ActivityPub instances using protocols like Mastodon or Pleroma.
-- Join us to build, remix, and incubate the cultural commons of tomorrow!
-
 
